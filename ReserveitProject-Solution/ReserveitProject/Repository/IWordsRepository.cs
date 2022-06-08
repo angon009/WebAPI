@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace ReserveitProject.Interfaces
+namespace ReserveitProject.Repository
 {
     public interface IWordsRepository
     {

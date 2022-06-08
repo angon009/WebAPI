@@ -4,8 +4,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
-using ReserveitProject.Helper;
-using ReserveitProject.Interfaces;
+using ReserveitProject.Utility;
 using ReserveitProject.Repository;
 
 namespace ReserveitProject

@@ -28,3 +28,13 @@ Z:\FullStackWebDevelopment\WebAPI\ReserveitProject-Solution\ReserveitProject\obj
 Z:\FullStackWebDevelopment\WebAPI\ReserveitProject-Solution\ReserveitProject\obj\Debug\net5.0\ref\ReserveitProject.dll
 Z:\FullStackWebDevelopment\WebAPI\ReserveitProject-Solution\ReserveitProject\obj\Debug\net5.0\ReserveitProject.pdb
 Z:\FullStackWebDevelopment\WebAPI\ReserveitProject-Solution\ReserveitProject\obj\Debug\net5.0\ReserveitProject.genruntimeconfig.cache
+Z:\FullStackWebDevelopment\WebApplications\WebAPI\ReserveitProject-Solution\ReserveitProject\obj\Debug\net5.0\ReserveitProject.csproj.AssemblyReference.cache
+Z:\FullStackWebDevelopment\WebApplications\WebAPI\ReserveitProject-Solution\ReserveitProject\obj\Debug\net5.0\ReserveitProject.GeneratedMSBuildEditorConfig.editorconfig
+Z:\FullStackWebDevelopment\WebApplications\WebAPI\ReserveitProject-Solution\ReserveitProject\obj\Debug\net5.0\ReserveitProject.AssemblyInfoInputs.cache
+Z:\FullStackWebDevelopment\WebApplications\WebAPI\ReserveitProject-Solution\ReserveitProject\obj\Debug\net5.0\ReserveitProject.AssemblyInfo.cs
+Z:\FullStackWebDevelopment\WebApplications\WebAPI\ReserveitProject-Solution\ReserveitProject\obj\Debug\net5.0\ReserveitProject.csproj.CoreCompileInputs.cache
+Z:\FullStackWebDevelopment\WebApplications\WebAPI\ReserveitProject-Solution\ReserveitProject\obj\Debug\net5.0\ReserveitProject.MvcApplicationPartsAssemblyInfo.cs
+Z:\FullStackWebDevelopment\WebApplications\WebAPI\ReserveitProject-Solution\ReserveitProject\obj\Debug\net5.0\ReserveitProject.MvcApplicationPartsAssemblyInfo.cache
+Z:\FullStackWebDevelopment\WebApplications\WebAPI\ReserveitProject-Solution\ReserveitProject\obj\Debug\net5.0\ReserveitProject.dll
+Z:\FullStackWebDevelopment\WebApplications\WebAPI\ReserveitProject-Solution\ReserveitProject\obj\Debug\net5.0\ref\ReserveitProject.dll
+Z:\FullStackWebDevelopment\WebApplications\WebAPI\ReserveitProject-Solution\ReserveitProject\obj\Debug\net5.0\ReserveitProject.pdb

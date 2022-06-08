@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
-using ReserveitProject.Interfaces;
+using ReserveitProject.Repository;
 using System.Collections.Generic;
 
 namespace ReserveitProject.Controllers

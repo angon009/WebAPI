@@ -235,11 +235,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\FullStackWebDevelopment\\WebAPI\\ReserveitProject-Solution\\ReserveitProject\\ReserveitProject.csproj",
+      "projectUniqueName": "Z:\\FullStackWebDevelopment\\WebApplications\\WebAPI\\ReserveitProject-Solution\\ReserveitProject\\ReserveitProject.csproj",
       "projectName": "ReserveitProject",
-      "projectPath": "Z:\\FullStackWebDevelopment\\WebAPI\\ReserveitProject-Solution\\ReserveitProject\\ReserveitProject.csproj",
+      "projectPath": "Z:\\FullStackWebDevelopment\\WebApplications\\WebAPI\\ReserveitProject-Solution\\ReserveitProject\\ReserveitProject.csproj",
       "packagesPath": "C:\\Users\\Angon\\.nuget\\packages\\",
-      "outputPath": "Z:\\FullStackWebDevelopment\\WebAPI\\ReserveitProject-Solution\\ReserveitProject\\obj\\",
+      "outputPath": "Z:\\FullStackWebDevelopment\\WebApplications\\WebAPI\\ReserveitProject-Solution\\ReserveitProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Angon\\AppData\\Roaming\\NuGet\\NuGet.Config",

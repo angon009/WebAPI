@@ -2,7 +2,7 @@
 using System.IO;
 using System.Threading.Tasks;
 
-namespace ReserveitProject.Helper
+namespace ReserveitProject.Utility
 {
     public class RawInputFormatter : InputFormatter
     {
